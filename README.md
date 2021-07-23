@@ -1,4 +1,5 @@
 # golangr
 golangr exercises
 
-- [x] [Hello World](hello.go)
+- [x] [Hello World](exercises/hello.go)
+- [x] [Strings](exercises/str.go)
